@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently building:** [PROJECT NAME](REPO-LINK): one line on what it is, built with **Next.js (App Router)**, **TypeScript**, **Drizzle ORM** and **PostgreSQL**.
+<!-- - 🔭 **Currently building:** [PROJECT NAME](REPO-LINK): one line on what it is, built with **Next.js (App Router)**, **TypeScript**, **Drizzle ORM** and **PostgreSQL**.-->
 - 🛠️ **Core strengths:** End-to-end type safety, RESTful API design with **Node.js & Express**, server-side rendering, and relational/document database architecture.
 - 💡 **Interests:** Scalable web systems, FinTech & payment integrations, and clean developer tooling.
 - 🌐 **Portfolio:** [lomisdev.me](https://lomisdev.me)
@@ -19,11 +19,11 @@
 
 ### 📌 Featured Projects
 
-| Project | What it does | Stack |
+<!--| Project | What it does | Stack |
 |---|---|---|
 | [**PROJECT 1 NAME**](REPO-LINK) · [Live demo](LIVE-DEMO-LINK) | One line on the problem it solves | Next.js, TypeScript, Drizzle, PostgreSQL |
 | [**PROJECT 2 NAME**](REPO-LINK) · [Live demo](LIVE-DEMO-LINK) | One line on the problem it solves | Node.js, Express, MongoDB |
-| [**PROJECT 3 NAME**](REPO-LINK) · [Live demo](LIVE-DEMO-LINK) | One line on the problem it solves | Your stack here |
+| [**PROJECT 3 NAME**](REPO-LINK) · [Live demo](LIVE-DEMO-LINK) | One line on the problem it solves | Your stack here | -->
 
 ---
 
